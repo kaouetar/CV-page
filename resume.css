@@ -1,0 +1,28 @@
+html, button, input, select, textarea {
+	color: #444;
+}
+html{
+	background-color: #c3dbd3;
+	font-size : 1em;
+	line-height : 1.4;
+}
+
+#wrapper  {
+	max-height: 900px;
+	min-width: 320px;
+	align-content: center;
+	margin: auto;
+}
+
+img 
+{
+	
+	float: right;
+	border-width: 1px;
+	color: #ccc;
+	border-radius: 50%;
+	border-image: 3px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	height: 200px;
+
+}
